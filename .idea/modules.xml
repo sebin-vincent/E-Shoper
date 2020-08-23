@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Auth-server/Auth-server.iml" filepath="$PROJECT_DIR$/Auth-server/Auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Config-Server/Config-Server.iml" filepath="$PROJECT_DIR$/Config-Server/Config-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Discovery-service/Discovery-service.iml" filepath="$PROJECT_DIR$/Discovery-service/Discovery-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gateway-Service/Gateway-Service.iml" filepath="$PROJECT_DIR$/Gateway-Service/Gateway-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/New Microservice.iml" filepath="$PROJECT_DIR$/.idea/New Microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inventory-service/inventory-service.iml" filepath="$PROJECT_DIR$/inventory-service/inventory-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-service/order-service.iml" filepath="$PROJECT_DIR$/order-service/order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/profile-service/profile-service.iml" filepath="$PROJECT_DIR$/profile-service/profile-service.iml" />
+    </modules>
+  </component>
+</project>
