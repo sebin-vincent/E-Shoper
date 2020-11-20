@@ -16,3 +16,4 @@ Spring :- Springboot, Spring-cloud, Spring-Data,Spring-Security, Feign
 Database:- Mongodb
 Event-Driven-Architecture(Saga) :- Kafka
 Log-Analysis:- ELK (Elastic-stack), Zipkin (For distributed tracing)
+Deployment- Docker,AWS-EC2
