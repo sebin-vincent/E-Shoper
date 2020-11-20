@@ -12,4 +12,7 @@ A microService based application in java
 7. Order Service
 
 ## Tech Stack
-Springboot, SpringCloud, Spring-Data,Spring-Security, Feign, Elastic-stack (ELK for log-analysis),Zipkin, Kafka, Docker, MongoDb
+Spring :- Springboot, Spring-cloud, Spring-Data,Spring-Security, Feign
+Database:- Mongodb
+Event-Driven-Architecture(Saga) :- Kafka
+Log-Analysis:- ELK (Elastic-stack), Zipkin (For distributed tracing)
